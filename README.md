@@ -1,2 +1,2 @@
 # DesertHack
-JS baasics
+JS basics
